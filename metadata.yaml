@@ -1,0 +1,32 @@
+_repo: Tafilet-b-the-narrative-of-a-journey-of-exploration-in-the-Atlas-mountains-and-the-oases-of-t__70728
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Romberg, Maurice
+    gutenberg_agent_id: '55891'
+    url: http://www.gutenberg.org/2009/agents/55891
+creator:
+  author:
+    agent_name: Harris, Walter Burton
+    gutenberg_agent_id: '55890'
+    url: http://www.gutenberg.org/2009/agents/55890
+description: ''
+gutenberg_issued: '2023-05-09'
+identifiers:
+  gutenberg: '70728'
+language: en
+pgterms:marc904: https://archive.org/details/tafiletnarrative00harr
+pgterms:marc905: 20230430233612harris
+pgterms:marc906: '1895'
+pgterms:marc907: GB
+production_note: Galo Flordelis (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bWilliam Blackwood and sons, $c1895.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Tafilet : $b the narrative of a journey of exploration in the Atlas mountains
+  and the oases of the north-west Sahara'
+url: http://www.gutenberg.org/ebooks/70728
