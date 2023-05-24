@@ -5,12 +5,17 @@ contributor:
     agent_name: Romberg, Maurice
     gutenberg_agent_id: '55891'
     url: http://www.gutenberg.org/2009/agents/55891
+covers:
+- cover_type: archival
+  image_path: 70728-h/images/cover.jpg
 creator:
   author:
     agent_name: Harris, Walter Burton
     gutenberg_agent_id: '55890'
     url: http://www.gutenberg.org/2009/agents/55890
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70728#Tafilet-b-the-narrative-of-a-journey-of-exploration-in-the-Atlas-mountains-and-the-oases-of-t_
 gutenberg_issued: '2023-05-09'
 identifiers:
   gutenberg: '70728'
